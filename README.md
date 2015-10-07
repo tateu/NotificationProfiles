@@ -8,4 +8,4 @@ Save and load profiles for Application notifications (Settings -> Notifications)
 1. Figure out why the loaded profile sometimes resets after a respring.
 2. Move the profile selector into the stock iOS location of Settings -> Notifications. I'd like to do this but I don't currently know how. I'll have to look into it and figure it out.
 2. Maybe - Add a way to switch to a specific profile using Activator.
-3. Maybe - Add a way to switch to a specific schedule based on a schedule.
+3. Maybe - Add a way to switch to a specific profile based on a schedule.
