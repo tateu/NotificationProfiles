@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NotificationProfiles;
+	cell = PSLinkCell;
+	detail = NPProfileController;
+	icon = NotificationProfiles.png;
+	isController = 1;
+	label = "Notification Profiles";
+    };
+}

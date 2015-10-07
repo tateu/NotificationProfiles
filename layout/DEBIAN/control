@@ -1,0 +1,9 @@
+Package: net.tateu.notificationprofiles
+Name: Notification Profiles
+Depends: firmware (>=8.0), mobilesubstrate, preferenceloader
+Version: 1.0.0~beta1
+Architecture: iphoneos-arm
+Description: Save and load profiles for Application notifications (Settings -> Notifications)
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: Tweaks
